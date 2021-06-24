@@ -1,0 +1,1 @@
+[{"fname":"Rashedul","lname":"Haque","gender":"male","dob":"2021-04-07","religion":"muslim","praddress":"40,SegunBagicha , Dhaka","peaddress":"40,SegunBagicha , Dhaka","phone":"01629254280","email":"rashed.rabby43@gmail.com","web":"https:\/\/www.facebook.com\/rashed.rabby43\/","user":"rashed","password":"1234"}]
